@@ -21,7 +21,7 @@
 
 ## Sobre
  
-Após explicações sobre os conceitos de Array, funções e exemplos de fácil compreendimento pelo Professor de Desenvolvimento Web Leonardo Rocha, O "Projeto de cadastro de usuários" foi lançado no Tems, plataforma de reuniões e entregas de arquivos com foco no mercado de trabalho, o trabalho consiste nas validações de formulário, criação de banco de dados no formato de Array e a documentação de todo processo criativo, utlizando as linguagens JavaScript, Html e Css. 
+Após explicações sobre os conceitos de Array, funções e exemplos de fácil compreendimento pelo Professor de Desenvolvimento Web [Leonardo Rocha](https://github.com/leonardossrocha), O "Projeto de cadastro de usuários" foi lançado no Tems, plataforma de reuniões e entregas de arquivos com foco no mercado de trabalho, o trabalho consiste nas validações de formulário, criação de banco de dados no formato de Array e a documentação de todo processo criativo, utlizando as linguagens JavaScript, Html e Css. 
 
 ## :sparkles: Funcionalidades
 
