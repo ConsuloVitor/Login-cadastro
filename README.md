@@ -185,7 +185,7 @@ Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com)
 ## :checkered_flag: Início ##
 >  Clone este projeto
 ```
-$ https://github.com/ESChrystian/Login-cad.git
+$ https://github.com/ESChrystian/Login-cadastro.git
 
 ```
 ## Autor ##
