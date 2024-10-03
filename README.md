@@ -27,15 +27,15 @@ Após explicações sobre os conceitos de Array, funções e exemplos de fácil 
 
  ✔️ **Verificação de Campos Obrigatórios;**
  
- ✔️ **Mensagens de Erro Personalizadas;**
+ ✔️ **Limpar o Formulário;**
  
- ✔️ **Armazenamento Temporário de Dados;**
+ ✔️ **Preencher Formulário;**
  
- ✔️ **Listagem Dinâmica de Dados;**
+ ✔️ **Validação De CEP;**
 
- ✔️ **Reuso de Código;**
+ ✔️ **Buscar CEP na AP;**
 
- ✔️ **Animações Simples e Transições.**
+ ✔️ **Evento de Foco no Campo CEP;**
 
 ## 🧾: Funcionalidades das Funções
 
@@ -188,5 +188,3 @@ Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com)
 $ https://github.com/ESChrystian/Login-cadastro.git
 
 ```
-## Autor ##
-[Chrystian de Almeida Silva](https://github.com/ESChrystian)
